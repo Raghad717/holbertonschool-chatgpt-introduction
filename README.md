@@ -1,1 +1,1 @@
-# holbertonschool-chatgpt-introduction
+this is a chatgpt-introduction project
